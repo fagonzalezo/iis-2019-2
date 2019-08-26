@@ -15,7 +15,7 @@ image:
 		</tr>
 		<small>
 			<tr>
-				<td>Abr 1</td>
+				<td>Ago 26</td>
 				<td>1. Introducción</td>
 				<td>
 					[Russell10] Chap 1 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf">slides</a>)<br>
@@ -27,7 +27,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Abr 8</td>
+				<td>Sep 2</td>
 				<td>1.3 Agentes inteligentes<br>
 				    2.1 Agentes y Búsquedas<br>
 				</td>
@@ -36,11 +36,10 @@ image:
 					[AI-edX] Agents and Search (<a href= "http://ai.berkeley.edu/slides/Lecture%202%20--%20Uninformed%20Search/SP14%20CS188%20Lecture%202%20--%20Uninformed%20Search.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/7c56230af88d467c9737344e2e76092e/">video</a>)<br>
 				</td>
 				<td>
-				<a href= "https://colab.research.google.com/drive/14bQITZS1wVLYJEKG4jNVsWbsBGryuOvY"> Práctica 1 </a>
 				</td>
 			</tr>
 			<tr>
-				<td>Abr 15-29</td>
+				<td>Sep 9-16</td>
 				<td>2.4 Búsqueda no informada<br>
 					2.5 Búsqueda informada<br> 
 				</td>
@@ -50,12 +49,10 @@ image:
 					<a href= "https://github.com/aimacode/aima-python/blob/master/search4e.ipynb">Search algorithms notebook from AIMA </a>
 				</td>
 				<td>
-				<a href= "https://colab.research.google.com/drive/11Y14ZRc0IoAk3Po49bW6THT9J_TQzNs2">Práctica 2</a><br>
-				<a href= "https://nbviewer.jupyter.org/github/fagonzalezo/iis-2019-1/blob/master/taller1.ipynb">Taller 1</a>
 				</td>
 			</tr>
 			<tr>
-				<td>May 6-13</td>
+				<td>Sep 23-30</td>
 				<td>3.1 Qué es aprendizaje de máquina<br>
 					3.2 Aprendizaje supervisado<br>
 				</td>
@@ -67,7 +64,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>May 20</td>
+				<td>Oct 7-14</td>
 				<td>
 				3.2.1 Clasificación lineal<br>
 				3.2.2 Modelos probabilísticos (regresión logística, Naïve Bayes)<br>
@@ -79,11 +76,10 @@ image:
 					<a href= "https://colab.research.google.com/drive/1T_-CmsSZMAPNiMjfnjXT-sYBGB8DmSM3">Notebook: Clasificación Lineal y Evaluación del Desempeño</a>
 				</td>
 				<td>
-				<a href= "https://colab.research.google.com/drive/1WChFNV0r3mF9GaUvtnmzN8I4YoC5zQZi">Práctica 3</a><br>
 				</td>
 			</tr>
 			<tr>
-				<td>May 27</td>
+				<td>Oct 21</td>
 				<td>3.2.3 Clasificación no lineal (k-nn, árboles de decisión)<br>
 				</td>
 				<td>
@@ -91,11 +87,10 @@ image:
 					<a href= "https://colab.research.google.com/drive/1BUn0mw1RCbkY0JtTh9bKt_qyrk8AuT4G">Notebook: Clasificación no lineal, complejidad y sobreajuste</a><br>
 				</td>
 				<td>
-				<a href= "https://colab.research.google.com/drive/1K98qRZhRw52W--ZzerTJAv7RfVO2xCYo">Práctica 4</a><br>
 				</td>
 			</tr>
 			<tr>
-				<td>Jun 10</td>
+				<td>Oct 28</td>
 				<td>
 					3.2.4 Support vector machines<br>
 					3.2.5 Random Forest<br>
@@ -106,11 +101,10 @@ image:
 					<a href= "https://colab.research.google.com/drive/1n3mWmyDgwpf5rZwMi1_DixniA3VXcBm8">Notebook: Random Forests y exploración aleatorizada</a><br>
 				</td>
 				<td>
-					<a href= "https://nbviewer.jupyter.org/github/fagonzalezo/iis-2019-1/blob/master/taller2.ipynb">Taller 2</a>
 				</td>
 			</tr>
 			<tr>
-				<td>Jun 17</td>
+				<td>Nov 4-11</td>
 				<td>3.2.6 Redes neuronales<br>
 				</td>
 				<td>
@@ -124,7 +118,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Jun 24</td>
+				<td>Nov 18</td>
 				<td>3.2.7 Deep learning<br>
 				</td>
 				<td>
@@ -139,7 +133,7 @@ image:
 				</td>
 			</tr>
             <tr>
-				<td>Julio 1</td>
+				<td>Nov 25</td>
 				<td>
 				3.3 Aprendizaje no supervisado <br>
 				3.3.2 Clustering (agrupamiento)<br>
@@ -152,11 +146,10 @@ image:
 					<a href= "https://colab.research.google.com/drive/1yra7VHxnRKMUYXHcFnyXz5qANUxMei1T">Notebook: Agrupamiento</a><br>
 				</td>
 				<td>
-				<a href= "https://nbviewer.jupyter.org/github/fagonzalezo/iis-2019-1/blob/master/practica5.ipynb">Práctica 5</a>
 				</td>
 			</tr>
 			<tr>
-				<td>Julio 8</td>
+				<td>Dic 1</td>
 				<td>
 				    3.3.1 Reducción de la dimensionalidad <br>
 				</td>
