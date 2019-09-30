@@ -53,7 +53,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Sep 23-30</td>
+				<td>Sep 23</td>
 				<td>3.1 Qué es aprendizaje de máquina<br>
 					3.2 Aprendizaje supervisado<br>
 				</td>
@@ -66,7 +66,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Oct 7-14</td>
+				<td>Sep 30 - Oct 14</td>
 				<td>
 				3.2.1 Clasificación lineal<br>
 				3.2.2 Modelos probabilísticos (regresión logística, Naïve Bayes)<br>
@@ -74,7 +74,7 @@ image:
 				<td>
 					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) 20.2 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20a.pdf">slides</a>)<br>
 					[AI-edX] Naïve Bayes (<a href= "http://ai.berkeley.edu/slides/Lecture%2021%20--%20Naive%20Bayes/SP14%20CS188%20Lecture%2021%20--%20Naive%20Bayes.pptx">slides</a>)<br>
-					<a href= "https://colab.research.google.com/drive/1T_-CmsSZMAPNiMjfnjXT-sYBGB8DmSM3">Notebook: Clasificación Lineal y Evaluación del Desempeño</a>
+					<a href= "https://colab.research.google.com/drive/1s_cu8cK4EaUuaDXoggWF30YNo3G_Ibx2">Notebook: Clasificación Lineal y Evaluación del Desempeño</a>
 				</td>
 				<td>
 				</td>
