@@ -77,6 +77,7 @@ image:
 					<a href= "https://colab.research.google.com/drive/1s_cu8cK4EaUuaDXoggWF30YNo3G_Ibx2">Notebook: Clasificación Lineal y Evaluación del Desempeño</a>
 				</td>
 				<td>
+				<a href= "https://colab.research.google.com/drive/1dmyU2qhjOzXqS_tMhdpX59Ulnqi3MZu6">Práctica 2</a><br>
 				</td>
 			</tr>
 			<tr>
