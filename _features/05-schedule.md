@@ -66,7 +66,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Sep 30 - Oct 14</td>
+				<td>Sep 30</td>
 				<td>
 				3.2.1 Clasificación lineal<br>
 				3.2.2 Modelos probabilísticos (regresión logística, Naïve Bayes)<br>
@@ -81,7 +81,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Oct 21</td>
+				<td>Oct 7</td>
 				<td>3.2.3 Clasificación no lineal (k-nn, árboles de decisión)<br>
 				</td>
 				<td>
@@ -92,21 +92,31 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Oct 28</td>
+				<td>Oct 14</td>
 				<td>
 					3.2.4 Support vector machines<br>
-					3.2.5 Random Forest<br>
 				</td>
 				<td>
 					[Russell10] Sect 18.9 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
-					<a href= "https://colab.research.google.com/drive/1_V-EtWtPj0cvuuGzAx3VixJfxHMk2VEw">Notebook: Máquinas de vectores de soporte y selección de modelos</a><br>
+					<a href= "https://colab.research.google.com/drive/1bNOYyRK1b83CO1KD6WWgiOog6omBSRqN">Notebook: Máquinas de vectores de soporte y selección de modelos</a><br>
+				</td>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td>Oct 21</td>
+				<td>
+					3.2.5 Random Forest<br>
+				</td>
+				<td>
+					[Russell10] Sect 18.10 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					<a href= "https://colab.research.google.com/drive/1n3mWmyDgwpf5rZwMi1_DixniA3VXcBm8">Notebook: Random Forests y exploración aleatorizada</a><br>
 				</td>
 				<td>
 				</td>
 			</tr>
 			<tr>
-				<td>Nov 4-11</td>
+				<td>Oct 28-Nov 4</td>
 				<td>3.2.6 Redes neuronales<br>
 				</td>
 				<td>
@@ -120,7 +130,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Nov 18</td>
+				<td>Nov 11-18</td>
 				<td>3.2.7 Deep learning<br>
 				</td>
 				<td>
