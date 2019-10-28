@@ -127,6 +127,8 @@ image:
 					<a href= "https://colab.research.google.com/drive/1LzTwgL3jL1L58lQqe29F4TXw_KqA08ak">Notebook: Neural Networks in Keras</a><br>
 				</td>
 				<td>
+				<a href= "/#/features/06-deliverables">Entrega 1</a><br>
+				<a href= "/#/features/06-deliverables">Entrega 2</a><br>
 				</td>
 			</tr>
 			<tr>
@@ -142,6 +144,8 @@ image:
 					<a href= "https://colab.research.google.com/drive/1C8MOfKYY-Pb9dlNBli8pF8YYpYVCJuhp">Notebook: CNN for image classification in Keras</a><br>
 				</td>
 				<td>
+				<a href= "/#/features/06-deliverables">Entrega 3</a><br>
+				<a href= "/#/features/06-deliverables">Entrega 4</a><br>
 				</td>
 			</tr>
             <tr>
@@ -158,10 +162,11 @@ image:
 					<a href= "https://colab.research.google.com/drive/1yra7VHxnRKMUYXHcFnyXz5qANUxMei1T">Notebook: Agrupamiento</a><br>
 				</td>
 				<td>
+				<a href= "/#/features/06-deliverables">Entrega 5</a><br>
 				</td>
 			</tr>
 			<tr>
-				<td>Dic 1</td>
+				<td>Dic 2</td>
 				<td>
 				    3.3.1 Reducción de la dimensionalidad <br>
 				</td>
