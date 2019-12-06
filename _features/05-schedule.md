@@ -172,7 +172,6 @@ image:
 				</td>
 				<td>
 					<a href= "https://www.youtube.com/watch?v=EX1397RTcEs">Video clase reducción de la dimensionalidad (2018-2)</a> <br>
-					<a href= "https://www.youtube.com/watch?v=EX1397RTcEs">Video clase Dic 3</a> <br>
 					Intro to PCA (<a href= "https://www.scribd.com/presentation/62790749/Intro-to-PCA">slides</a>)
 					<br>
 					A tutorial on principal component analysis (<a href= "https://www.cs.princeton.edu/picasso/mats/PCA-Tutorial-Intuition_jp.pdf">pdf</a>)<br>
