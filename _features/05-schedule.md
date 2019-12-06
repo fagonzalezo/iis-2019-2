@@ -181,6 +181,16 @@ image:
 				<td>
 				</td>				
 			</tr>
+			<tr>
+				<td>Dic 18</td>
+				<td>
+				</td>
+				<td>
+				</td>
+				<td>
+					<a href= "https://fagonzalezo.github.io/iis-2019-2/final_project.pdf">Final Project</a><br>
+				</td>				
+			</tr>
 		</small>
 	</tbody>
 </table>
