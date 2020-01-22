@@ -159,7 +159,7 @@ image:
 					[Alp10] Chap 7 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap7-v1-0.pdf">slides</a>)
 					<br>
 					<a href= "https://fagonzalezo.github.io/iis-2018-1/KMeans.pdf">K-Means</a><br>
-					<a href= "https://colab.research.google.com/drive/1yra7VHxnRKMUYXHcFnyXz5qANUxMei1T">Notebook: Agrupamiento</a><br>
+					<a href= "https://colab.research.google.com/drive/1hSCPgGOQ-deajNzaOQzHdUozsi8bMxfO">Notebook: Agrupamiento</a><br>
 				</td>
 				<td>
 				<a href= "/#/features/06-deliverables">Entrega 5</a><br>
